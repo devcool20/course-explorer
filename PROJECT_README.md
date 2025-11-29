@@ -59,7 +59,3 @@ react-assignment/
 ## � Dependencies
 - **react**, **react‑dom**, **react‑router‑dom**, **react‑markdown** (runtime)
 - **vite**, **@vitejs/plugin‑react**, **tailwindcss**, **@tailwindcss/typography**, **postcss**, **autoprefixer** (dev)
-
----
-
-*The project is client‑only; data is loaded from the JSON files and progress is stored in `localStorage`.*
